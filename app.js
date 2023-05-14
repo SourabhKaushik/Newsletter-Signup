@@ -77,3 +77,6 @@ app.listen(process.env.PORT || 3000, function () {
 
 // list id/audience
 // 7570dd4991.
+
+//vercel token
+//fGTfWleCwxoS08N2yojTHGtu
